@@ -23,7 +23,7 @@ To get started with the hotel management system, follow these steps:
 
 1. Clone the repository:
     ```bash
-   git clone https://github.com/dontaskit28/sql-python.git
+   git clone https://github.com/dontaskit28/hotel-mangament-sql-python.git
     ```
 3. Install the required dependencies:
    ```bash
